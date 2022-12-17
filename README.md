@@ -7,5 +7,5 @@ Essa aplicação foi desenvolvida com o objetivo de converter minhas APIs do [Po
 
 ## 🛠️ Construído com
 
-* [NPM](https://www.npmjs.com/) - Gerente de dependências
+* [Npm](https://www.npmjs.com/) - Gerente de dependências
 * [Typescript](https://www.typescriptlang.org/) - Linguagem de programação
