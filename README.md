@@ -9,3 +9,5 @@ Essa aplicação foi desenvolvida com o objetivo de converter minhas APIs do [Po
 
 * [Npm](https://www.npmjs.com/) - Gerente de dependências
 * [Typescript](https://www.typescriptlang.org/) - Linguagem de programação
+* [Readline-sync](https://www.npmjs.com/package/readline-sync) - Biblioteca
+* [Postman-to-openapi](https://www.npmjs.com/package/postman-to-openapi) - Biblioteca
